@@ -1,4 +1,4 @@
-package br.com.javaexpert.solid;
+package br.com.javaexpert.solid.coesao;
 
 import br.com.javaexpert.solid.domains.Funcionario;
 

@@ -1,8 +1,8 @@
 package br.com.javaexpert.solid.domains;
 
-import br.com.javaexpert.solid.CalculaDezOuVintePorCento;
-import br.com.javaexpert.solid.CalculaQuinzeOuVinteECincoPorCento;
-import br.com.javaexpert.solid.RegrasECalculos;
+import br.com.javaexpert.solid.coesao.CalculaDezOuVintePorCento;
+import br.com.javaexpert.solid.coesao.CalculaQuinzeOuVinteECincoPorCento;
+import br.com.javaexpert.solid.coesao.RegrasECalculos;
 
 public enum Cargo {
     DESENVOLVEDOR(new CalculaDezOuVintePorCento()),
